@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+.btn{
+    height: 50px;
+    width: 80px;
+    margin-top: 5px;
+    border: solid 2px black;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: antiquewhite;
+}
+.input{
+    padding: 15px 0px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 27px;
+    background-color: antiquewhite;
+}
+.container{
+    height: 100vh;
+}
+.parent{
+    /* background-color: aqua; */
+    position: relative;
+    align-items: center;
+    text-align: center;
+    top:10rem;
+    left: 10rem;
+    padding-top: 30px;
+    height: 370px;
+    width: 420px;
+    border-radius: 40px;
+    
+}
